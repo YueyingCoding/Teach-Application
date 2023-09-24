@@ -11,7 +11,7 @@ Password: aa
 
 There are more functions on the teacher's side, including add questions and export grades, etc. Will be available for public soon. 
 
-Sample Screenshots of part of the application is shown below:
+Sample Screenshots of part of the application are shown below:
 
 <img width="732" alt="Screenshot 2023-09-24 at 2 10 30 PM" src="https://github.com/YueyingCoding/Teach-Application/assets/114713388/6086c861-5bfe-42d6-98cf-14db12d71de0">
 <img width="797" alt="Screenshot 2023-09-24 at 2 11 16 PM" src="https://github.com/YueyingCoding/Teach-Application/assets/114713388/5437bef2-bc7f-4138-9468-30547adcb530">
